@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903016728184",
+    "project_id": "storageprac-6c7cf",
+    "storage_bucket": "storageprac-6c7cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903016728184:android:ca34afbacfb9ee4c7f8f8d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_storage_prac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903016728184-7upc4tgg4ojutauvvi4kd7be305d5fqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIEwogKNF7mbL1G7DbLeLcGgQUKsR3jmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903016728184-7upc4tgg4ojutauvvi4kd7be305d5fqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
