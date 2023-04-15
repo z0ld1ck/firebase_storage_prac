@@ -1,24 +1,37 @@
 # firebase_storage_prac
 
-A new Flutter project.
+This is a Flutter project that demonstrates how to upload files to Firebase Storage and retrieve their names for display on the screen. This project uses the Firebase Storage plugin for Flutter to upload and retrieve files from Firebase Storage.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+    Clone this repository to your local machine using the following command:
+    https://github.com/z0ld1ck/firebase_storage_prac.git
+    
+    Open the project in your favorite editor or IDE.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    Create a new Firebase project or use an existing one.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Enable Firebase Storage in your project and create a bucket.
 
+    Update the google-services.json file with your Firebase project details.
 
+    Run the project on an emulator or physical device using the following command:
+        flutter run
+
+    
+    
 ##  Features
 This project demonstrates the following features:
 
-    Uploading files to Firebase Storage
-    Retrieving file names from Firebase Storage
-    Displaying file names on the screen
+    -Uploading files to Firebase Storage
+    -Retrieving file names from Firebase Storage
+    -Displaying file names on the screen
+    
+    
+## Dependencies
+        cupertino_icons: ^1.0.2
+        firebase_core: ^2.9.0
+        firebase_storage: ^11.1.0
+        file_picker: ^5.2.9
